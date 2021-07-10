@@ -1,4 +1,3 @@
-cv2
-os
-shutil
-time
+opencv-contrib-python
+opencv-python
+colorama~=0.4.4
